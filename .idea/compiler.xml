@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="java-serialization_main" target="1.8" />
       <module name="java-serialization_test" target="1.8" />
+      <module name="laba5_main" target="1.8" />
+      <module name="laba5_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
