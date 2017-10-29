@@ -1,5 +1,5 @@
 # laba 5
-[![Build Status](https://travis-ci.org/MasterOfTheU/java-serialization.svg?branch=master)](https://travis-ci.org/MasterOfTheU/java-serialization)
+[![Build Status](https://travis-ci.org/roman-bessmertnyi/laba5.svg?branch=master)](https://travis-ci.org/roman-bessmertnyi/laba5)
 
 [![codecov](https://codecov.io/gh/MasterOfTheU/java-serialization/branch/master/graph/badge.svg)](https://codecov.io/gh/MasterOfTheU/java-serialization)
 
