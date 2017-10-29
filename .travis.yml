@@ -5,6 +5,11 @@ install: /bin/true
 jdk:
   - oraclejdk8
 
+env:
+    global:
+        # CODACY_PROJECT_TOKEN=<secret...>
+        - secure: "53deee4137a4471ba43c018379f5c8f5"
+
 before_install:
   - gradle wrapper
   - sudo apt-get install jq

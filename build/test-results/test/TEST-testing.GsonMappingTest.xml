@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testing.GsonMappingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-29T08:27:25" hostname="Simple-and-Nice" time="0.711">
+<testsuite name="testing.GsonMappingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-29T09:16:20" hostname="Simple-and-Nice" time="0.628">
   <properties/>
-  <testcase name="convertFromJSON" classname="testing.GsonMappingTest" time="0.363"/>
-  <testcase name="convertToJSON" classname="testing.GsonMappingTest" time="0.035"/>
+  <testcase name="convertFromJSON" classname="testing.GsonMappingTest" time="0.477"/>
+  <testcase name="convertToJSON" classname="testing.GsonMappingTest" time="0.033"/>
   <system-out><![CDATA[initializeBook has executed.
-Used memory in megabytes: 2,570671 
-The runtime of method initializeBook() is 280 ms
+Used memory in megabytes: 2,152809 
+The runtime of method initializeBook() is 60 ms
 
 initializeBook has executed.
-Used memory in megabytes: 2,469101 
-The runtime of method initializeBook() is 33 ms
+Used memory in megabytes: 2,151016 
+The runtime of method initializeBook() is 64 ms
 
 BOOK TITLE: War and Peace
 BOOK GENRE: Novel
@@ -27,8 +27,8 @@ AUTHOR NAME: Unknown
 YEAR OF PUBLISHING: 0
 
 createBooks has executed.
-Used memory in megabytes: 2,473763 
-The runtime of method createBooks() is 370 ms
+Used memory in megabytes: 2,147774 
+The runtime of method createBooks() is 182 ms
 
 GOOGLE GSON SERIALIZATION
 BOOK #1
@@ -39,8 +39,8 @@ BOOK #3
 {"title":"Unknown","genre":"Unknown","authorName":"Unknown","year":0}
 
 convertToJSON has executed.
-Used memory in megabytes: 2,625870 
-The runtime of method convertToJSON() is 259 ms
+Used memory in megabytes: 2,955124 
+The runtime of method convertToJSON() is 408 ms
 
 GOOGLE GSON SERIALIZATION
 BOOK #1
@@ -51,22 +51,22 @@ BOOK #3
 {"title":"Unknown","genre":"Unknown","authorName":"Unknown","year":0}
 
 convertToJSON has executed.
-Used memory in megabytes: 2,954056 
-The runtime of method convertToJSON() is 39 ms
+Used memory in megabytes: 2,244637 
+The runtime of method convertToJSON() is 40 ms
 
 GOOGLE GSON DESERIALIZATION
 
 convertFromJSON has executed.
-Used memory in megabytes: 2,965355 
-The runtime of method convertFromJSON() is 61 ms
+Used memory in megabytes: 2,257164 
+The runtime of method convertFromJSON() is 22 ms
 
 initializeBook has executed.
-Used memory in megabytes: 2,960991 
-The runtime of method initializeBook() is 52 ms
+Used memory in megabytes: 2,578308 
+The runtime of method initializeBook() is 17 ms
 
 initializeBook has executed.
-Used memory in megabytes: 2,245522 
-The runtime of method initializeBook() is 195 ms
+Used memory in megabytes: 2,247734 
+The runtime of method initializeBook() is 64 ms
 
 BOOK TITLE: War and Peace
 BOOK GENRE: Novel
@@ -84,8 +84,8 @@ AUTHOR NAME: Unknown
 YEAR OF PUBLISHING: 0
 
 createBooks has executed.
-Used memory in megabytes: 2,245720 
-The runtime of method createBooks() is 311 ms
+Used memory in megabytes: 2,248123 
+The runtime of method createBooks() is 118 ms
 
 GOOGLE GSON SERIALIZATION
 BOOK #1
@@ -96,8 +96,8 @@ BOOK #3
 {"title":"Unknown","genre":"Unknown","authorName":"Unknown","year":0}
 
 convertToJSON has executed.
-Used memory in megabytes: 2,575264 
-The runtime of method convertToJSON() is 35 ms
+Used memory in megabytes: 2,251213 
+The runtime of method convertToJSON() is 33 ms
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
